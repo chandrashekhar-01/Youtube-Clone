@@ -7,18 +7,6 @@ A simple YouTube clone built using only HTML and CSS. This static project replic
 - **Video Grid**: Displays a collection of video boxes with thumbnails, video duration, and video information including title, creator, and views.
 - **Modular CSS**: The styling is divided into multiple CSS files for header, video preview, sidebar, and general styles.
 
-## Project Structure
-youtube-clone/
-├── index.html           # Main HTML file
-├── header.css           # CSS for header styling
-├── video-preview.css    # CSS for video preview styling
-├── sidebar.css          # CSS for sidebar styling
-├── general.css          # General styling for the project
-├── icons/               # Folder containing icon images
-├── thumbnail/           # Folder containing video thumbnail images
-└── channels/            # Folder containing channel/profile images
-
-
 ## Customization
 Images & Icons:
 -Replace the images located in the icons/, thumbnail/, and channels/ folders with your own to personalize the design.
@@ -30,7 +18,7 @@ Fonts:
 -The project uses the Roboto font from Google Fonts. Feel free to change or add fonts by updating the link in the <head> section of index.html.
 
 ## Acknowledgements
-Design Inspiration:
+**Design Inspiration**:
 -The design is inspired by the YouTube platform.
 
-Feel free to modify any sections as needed for your project. Happy coding!
+**Feel free to modify any sections as needed for your project. Happy coding!**
