@@ -9,14 +9,15 @@ A simple YouTube clone built using only HTML and CSS. This static project replic
 
 ## Project Structure
 youtube-clone/
-├── index.html           < Main HTML file
-├── header.css           < CSS for header styling
-├── video-preview.css    < CSS for video preview styling
-├── sidebar.css          < CSS for sidebar styling
-├── general.css          < General styling for the project
-├── icons/               < Folder containing icon images
-├── thumbnail/           < Folder containing video thumbnail images
-└── channels/            < Folder containing channel/profile images
+├── index.html           # Main HTML file
+├── header.css           # CSS for header styling
+├── video-preview.css    # CSS for video preview styling
+├── sidebar.css          # CSS for sidebar styling
+├── general.css          # General styling for the project
+├── icons/               # Folder containing icon images
+├── thumbnail/           # Folder containing video thumbnail images
+└── channels/            # Folder containing channel/profile images
+
 
 ## Customization
 Images & Icons:
